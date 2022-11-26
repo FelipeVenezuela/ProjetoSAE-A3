@@ -1,5 +1,10 @@
 # ProjetoSAE-A3
 
+## O SAE tem como objetivo melhorar o déficit de ensino nos ambientes escolares proporcionados pela pandemia nos últimos tempos.
+Reunindo rendimento de conteúdo com avaliação de desempenho
+Através de um estudo de desempenho e desenvolvimento de conteúdo, podemos redirecionar o aluno para ambientes que condizem com seu desempenho
+
+
 ### Integrantes
 Nome: Aparicio Fermiano dos Santos Junior - RA: 82019785
 <br>
